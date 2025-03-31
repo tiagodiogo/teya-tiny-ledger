@@ -17,11 +17,19 @@
 1. Open a web browser and navigate to `http://localhost:8081/swagger-ui.html` to check the available rest endpoint and schema
 2. Obtain the api-docs from http://localhost:8081/v3/api-docs and import it into your favourite API client (e.g. Postman)
 
+No detailed schema and documentation was provided given the directive:
+(Feel free to cut down other parts as much as you need to fit the solution into the
+time you have available)
+
 ### Tests
 
 There is a cool integration test that checks the correctness of the ledger <br>
 It is located in `src/test/java/com/tiny_ledger/TinyLedgerIT` <br>
 Can be run with ```./mvnw clean verify ```
+
+No unit tests were added given the directive:
+(Feel free to cut down other parts as much as you need to fit the solution into the
+time you have available)
 
 ### Usage
 
