@@ -20,7 +20,8 @@
 ### Tests
 
 There is a cool integration test that checks the correctness of the ledger <br>
-It is located in `src/test/java/com/tiny_ledger/TinyLedgerIT`
+It is located in `src/test/java/com/tiny_ledger/TinyLedgerIT` <br>
+Can be run with ```./mvnw clean verify ```
 
 ### Usage
 
